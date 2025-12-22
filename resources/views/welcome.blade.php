@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <title>Northen Safety Lube</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=5.0, minimum-scale=0.86">
     <meta content="" name="keywords">
     <meta content="" name="description">
     <link rel="shortcut icon" sizes="16x16" href="/nsl-logo.png" type="image/x-icon">
@@ -228,20 +228,20 @@
             <div class="wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
                 <h1 class="mb-5">Our <span class="text-main">Services</span></h1>
             </div>
-            <div class="contact-container row my-5 card-effect card-hide service-card slide-in-left align-items-center" >
+            <div class="contact-container row my-5 card-effect card-hide service-card slide-in-left align-items-center">
                 <div class="col-lg-6 col-md-12 text-center">
                     <img src="/img/s1.png" class="img-fluid rounded shadow cone-image vh-100">
                 </div>
                 <div class="col-lg-6 col-md-12 py-5">
                     <h4 class="text-center">Heating and Air Conditioning System Repairs</h4>
                     <p class="my-3 mx-auto text-justify fade-in-section" style="max-width:90%">
-                       Stay comfortable in every season with our 
-                       expert heating and air conditioning services. 
-                       We diagnose and repair HVAC issues quickly and 
-                       accurately to ensure your system runs efficiently. 
-                       Whether it’s weak airflow, strange noises, or complete 
-                       system failure, our trained technicians restore your comfort 
-                       with reliable, long-lasting solutions.
+                        Stay comfortable in every season with our
+                        expert heating and air conditioning services.
+                        We diagnose and repair HVAC issues quickly and
+                        accurately to ensure your system runs efficiently.
+                        Whether it’s weak airflow, strange noises, or complete
+                        system failure, our trained technicians restore your comfort
+                        with reliable, long-lasting solutions.
                     </p>
                 </div>
             </div>
@@ -255,13 +255,13 @@
                 <div class="col-lg-6 col-md-12 py-5">
                     <h4 class="text-center">Drip-less Undercoating</h4>
                     <p class="my-3 mx-auto text-justify fade-in-section" style="max-width:90%">
-                         Protect your vehicle from rust, corrosion, 
-                         and harsh road conditions with our drip-less 
-                         undercoating service. This advanced application 
-                         creates a durable protective barrier without the mess,
-                          helping extend the life of your vehicle’s underbody. 
-                          Ideal for Canadian climates, our undercoating keeps 
-                          your car protected year-round.
+                        Protect your vehicle from rust, corrosion,
+                        and harsh road conditions with our drip-less
+                        undercoating service. This advanced application
+                        creates a durable protective barrier without the mess,
+                        helping extend the life of your vehicle’s underbody.
+                        Ideal for Canadian climates, our undercoating keeps
+                        your car protected year-round.
                     </p>
                 </div>
             </div>
@@ -274,13 +274,13 @@
                 <div class="col-lg-6 col-md-12 py-5">
                     <h4 class="text-center">Vehicle Safety Certifications</h4>
                     <p class="my-3 mx-auto text-justify fade-in-section" style="max-width:90%">
-                         We provide certified vehicle safety 
-                         inspections to ensure your car meets 
-                         all Canadian safety standards. 
-                         Our thorough inspection process covers brakes, 
-                         suspension, steering, lights, tires, and more. 
-                         Once approved, you’ll receive the proper certification
-                          with confidence—helping you drive legally, safely, and worry-free.
+                        We provide certified vehicle safety
+                        inspections to ensure your car meets
+                        all Canadian safety standards.
+                        Our thorough inspection process covers brakes,
+                        suspension, steering, lights, tires, and more.
+                        Once approved, you’ll receive the proper certification
+                        with confidence—helping you drive legally, safely, and worry-free.
                     </p>
                 </div>
             </div>
