@@ -87,6 +87,14 @@
     top: -100px;
     transition: .5s;
 }
+.navbar {
+    display: flex;
+    align-items: center;
+}
+.navbar-brand {
+    padding: 0;
+    margin: 0;
+}
 
 .navbar .navbar-nav .nav-link {
     margin-right: 35px;
@@ -140,7 +148,7 @@
         visibility: hidden;
         transition: .5s;
     }
-
+    
     .navbar .nav-item:hover .dropdown-menu {
         top: 100%;
         visibility: visible;
