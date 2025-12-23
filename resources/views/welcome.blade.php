@@ -106,7 +106,7 @@
                                         <strong>NSL</strong>
                                     </p>
                                     <h1 class="display-1 text-white mb-4 animated slideInRight">Northern <span
-                                            class="text-main">Safety</span> Lube
+                                            class="text-main">Safety &</span> Lube
                                     </h1>
                                     <p>Heating and Air Conditioning System Repairs,Drip-less Undercoating,Vehicle Safety
                                         Certifications</p>
