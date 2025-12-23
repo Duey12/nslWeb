@@ -294,15 +294,12 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <p class="fs-5 fw-medium text-main">Get A Quote</p>
                     <h1 class="display-5 mb-4">Need Our Expert Help? We're Here!</h1>
-                    <p>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita
-                        erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
-                    <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et
-                        eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo</p>
+                    <p>Reach out today and get personalized support from our experienced team. Whether you have questions, need guidance, or want a quote, we’re ready to help — fast and hassle-free.</p>
                     <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
                         <span class="btn-lg-square bg-main" style="width: 55px; height: 55px;">
                             <i class="fa fa-phone-alt text-white"></i>
                         </span>
-                        <span class="fs-5 fw-medium mx-4 text-main">+012 345 6789</span>
+                        <span class="fs-5 fw-medium mx-4 text-main">+705-495-4092</span>
                     </a>
                 </div>
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
