@@ -69,7 +69,7 @@
     <div class="container-fluid bg-main sticky-top">
         <div class="container">
             <nav class="navbar navbar-expand-lg bg-main text-white navbar-light p-lg-0">
-                <a href="/">
+                <a href="/" class="navbar-brand">
                     <img src="/nsl-logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
                 </a>
                 <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
@@ -78,11 +78,10 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav">
-                        <a href="index.html" class="nav-item nav-link active text-white">Home</a>
-                        <a href="about.html" class="nav-item nav-link text-white">About</a>
-                        <a href="service.html" class="nav-item nav-link text-white">Services</a>
-                        <a href="project.html" class="nav-item nav-link text-white">Projects</a>
-                        <a href="contact.html" class="nav-item nav-link text-white">Contact</a>
+                        <a href="#" class="nav-item nav-link active text-white">Home</a>
+                        <a href="#" class="nav-item nav-link text-white">About</a>
+                        <a href="#" class="nav-item nav-link text-white">Services</a>
+                        <a href="#" class="nav-item nav-link text-white">Contact</a>
                     </div>
                     <div class="ms-auto d-none d-lg-block">
                         <a href="" class=" text-white btn bg-dark rounded-pill py-2 px-3">Get A Quote</a>
