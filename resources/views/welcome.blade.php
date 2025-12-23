@@ -68,7 +68,7 @@
     <!-- Navbar Start -->
     <div class="container-fluid bg-main sticky-top">
         <div class="container">
-            <nav class="navbar navbar-expand-lg bg-main text-white navbar-light p-lg-0">
+            <nav class="navbar navbar-expand-lg bg-main text-white navbar-light">
                 <a href="/" class="navbar-brand">
                     <img src="/nsl-logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
                 </a>
