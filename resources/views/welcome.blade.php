@@ -72,7 +72,7 @@
                 <a href="/" class="navbar-brand">
                     <img src="/nsl-logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
                 </a>
-                <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
