@@ -66,8 +66,9 @@
     <!-- Topbar End -->
 
     <!-- Navbar Start -->
-    
-            <nav class="navbar navbar-expand-lg bg-main text-white p-lg-0 sticky-top">
+    <div class="container-fluid bg-main sticky-top">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg bg-main text-white navbar-light p-lg-0">
                 <a href="/" class="navbar-brand">
                     <img src="/nsl-logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
                 </a>
@@ -87,7 +88,8 @@
                     </div>
                 </div>
             </nav>
-        
+        </div>
+    </div>
     <!-- Navbar End -->
 
     <!-- Carousel Start -->
