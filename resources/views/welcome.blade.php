@@ -265,7 +265,7 @@
                 </div>
             </div>
 
-            <!-- World Class Instructors -->
+            <!-- World Class Instructor -->
             <div class="contact-container row my-5 card-effect card-hide service-card slide-in-left align-items-center">
                 <div class="col-lg-6 col-md-12 text-center">
                     <img src="/img/s3.png" class="img-fluid rounded shadow">
