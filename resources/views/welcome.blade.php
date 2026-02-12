@@ -46,14 +46,13 @@
     <!-- Spinner End -->
 
     <!-- Topbar Start -->
-    <div class="container-fluid bg-dark text-white d-none d-lg-flex">
+    <div class="container-fluid bg-main text-white d-none d-lg-flex">
         <div class="container py-3">
             <div class="d-flex align-items-center">
                 <div class="ms-auto d-flex align-items-center">
-                    <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>161 Ferris Dr, North Bay, ON P1A 4K2
-                        Canada</small>
-                    <small class="ms-4"><i class="fa fa-envelope me-3"></i>nslauto@outlook.com</small>
-                    <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+705-495-4092</small>
+                    <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>1546 St Margarets Bay Rd, Lakeside, NS, B3T 1A9</small>
+                    <small class="ms-4"><i class="fa fa-envelope me-3"></i>DOWNHOMEHANDYMAN@EASTLINK.CA</small>
+                    <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+1-902-497-3211</small>
                     <div class="ms-3 d-flex">
                         <a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2"
                             href="https://www.facebook.com/automotiveservice/"><i class="fab fa-facebook-f"></i></a>
@@ -66,11 +65,11 @@
     <!-- Topbar End -->
 
     <!-- Navbar Start -->
-    <div class="container-fluid bg-main sticky-top">
+    <div class="container-fluid  sticky-top">
         <div class="container">
-            <nav class="navbar navbar-expand-lg bg-main text-white navbar-light">
+            <nav class="navbar navbar-expand-lg text-dark navbar-light">
                 <a href="/" class="navbar-brand">
-                    <img src="/nsl-logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
+                    <img src="/logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
                 </a>
                 <button type="button" class="navbar-toggler" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
@@ -78,13 +77,13 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav">
-                        <a href="#" class="nav-item nav-link active text-white">Home</a>
-                        <a href="#" class="nav-item nav-link text-white">About</a>
-                        <a href="#" class="nav-item nav-link text-white">Services</a>
-                        <a href="#" class="nav-item nav-link text-white">Contact</a>
+                        <a href="#" class="nav-item nav-link active text-dark">Home</a>
+                        <a href="#" class="nav-item nav-link text-dark">About</a>
+                        <a href="#" class="nav-item nav-link text-dark">Services</a>
+                        <a href="#" class="nav-item nav-link text-dark">Contact</a>
                     </div>
                     <div class="ms-auto d-none d-lg-block">
-                        <a href="" class=" text-white btn bg-dark rounded-pill py-2 px-3">Get A Quote</a>
+                        <a href="" class=" text-white btn bg-main rounded-pill py-2 px-3">Get A Quote</a>
                     </div>
                 </div>
             </nav>
@@ -97,22 +96,22 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active vh-100">
-                    <img class="w-100" src="img/hero-nsl.png" alt="Image">
+                    <img class="w-100" src="img/hero.png" alt="Image" style="opacity: 0.7;">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
                                 <div class="col-lg-7 text-start">
-                                    <p class="fs-4 text-light animated slideInRight">Welcome to
-                                        <strong>NSL</strong>
+                                    <p class="fs-4 text-white animated slideInRight">Welcome to
+                                        <strong>Down Home HandyMan</strong>
                                     </p>
-                                    <h1 class="display-1 text-white mb-4 animated slideInRight">Northern <span
-                                            class="text-main">Safety &</span> Lube
+                                    <h1 class="display-1 text-main mb-4 animated slideInRight">Reliable Repairs <span
+                                            class="text-main">Done Right</span> 
                                     </h1>
-                                    <p>Heating and Air Conditioning System Repairs,Drip-less Undercoating,Vehicle Safety
-                                        Certifications</p>
+                                    <p class="text-main">We are a customer oriented service provider who specialize in the retail sector. In business since 1997, we offer a range of services to maintain and improve the functionality of the business</p>
                                     <a href=""
-                                        class="btn bg-main text-white rounded-pill py-3 px-5 animated slideInRight">Explore
-                                        More</a>
+                                        class="btn bg-main text-white rounded-pill py-3 px-5 mx-3 animated slideInRight">Get Quote</a>
+                                        <a href=""
+                                        class="btn text-main  rounded-pill py-3 px-5 animated slideInRight" style="outline: 1px solid white;">Call now</a>
                                 </div>
                             </div>
                         </div>

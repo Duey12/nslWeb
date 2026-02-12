@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FF7F00;
+    --primary: #4F6F8A;
     --secondary: #000;
     --light: #F1F3FA;
     --dark: #1C2035;
@@ -10,7 +10,7 @@
 
 }
 .text-main{
-    color:#FF7F00
+    color:var(--primary) 
 }
 .back-to-top {
     position: fixed;
