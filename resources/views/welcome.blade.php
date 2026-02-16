@@ -3,13 +3,13 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Northen Safety Lube</title>
+    <title>HandyMan</title>
     <meta name="viewport" content="width=device-width, initial-scale=0.86, maximum-scale=5.0, minimum-scale=0.86">
     <meta content="" name="keywords">
     <meta content="" name="description">
-    <link rel="shortcut icon" sizes="16x16" href="/nsl-logo.png" type="image/x-icon">
-    <link rel="shortcut icon" sizes="32x32" href="/nsl-logo.png" type="image/x-icon">
-    <link rel="shortcut icon" sizes="192x192" href="/nsl-logo.png" type="image/x-icon">
+    <link rel="shortcut icon" sizes="16x16" href="/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" sizes="32x32" href="/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" sizes="192x192" href="/logo.png" type="image/x-icon">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -125,15 +125,15 @@
     <!-- Features Start -->
     <div class="container-xxl py-5">
         <div class="container">
-            <h1 class="my-5">Why Choose <span style="color:#FF7F00;">Us</span>?</h1>
+            <h1 class="my-5">Our <span class="text-main"> Services</span></h1>
             <div class="row g-0 feature-row">
                 <div class="col-md-6 col-lg-3 wow fadeIn card-effect" data-wow-delay="0.1s">
                     <div class="feature-item border h-100 p-5">
                         <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
                             <img class="img-fluid" src="img/icon/icon-1.png" alt="Icon">
                         </div>
-                        <h5 class="mb-3">Quality Work</h5>
-                        <p class="mb-0">Certified technicians using professional tools and proven repair methods.</p>
+                        <h5 class="mb-3">Renovations/Carpentry</h5>
+                        <p class="mb-0">Description of Renovations/Carpentry will be added.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 wow fadeIn card-effect" data-wow-delay="0.3s">
@@ -141,8 +141,8 @@
                         <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
                             <img class="img-fluid" src="img/icon/icon-2.png" alt="Icon">
                         </div>
-                        <h5 class="mb-3">Friendly Staff</h5>
-                        <p class="mb-0">Certified technicians using professional tools and proven repair methods.</p>
+                        <h5 class="mb-3">Electrical Repair</h5>
+                        <p class="mb-0">Description of Minor Electrical Repair will be added.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 wow fadeIn card-effect" data-wow-delay="0.5s">
@@ -150,8 +150,8 @@
                         <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
                             <img class="img-fluid" src="img/icon/icon-3.png" alt="Icon">
                         </div>
-                        <h5 class="mb-3">Fair Prices</h5>
-                        <p class="mb-0">Upfront pricing with no hidden fees or unnecessary repairs.</p>
+                        <h5 class="mb-3">Painting</h5>
+                        <p class="mb-0">Description of Painting will be added.</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-3 wow fadeIn card-effect" data-wow-delay="0.7s">
@@ -159,8 +159,8 @@
                         <div class="btn-square bg-light rounded-circle mb-4" style="width: 64px; height: 64px;">
                             <img class="img-fluid" src="img/icon/icon-4.png" alt="Icon">
                         </div>
-                        <h5 class="mb-3">Customer Orientated</h5>
-                        <p class="mb-0">Your safety and satisfaction always come first</p>
+                        <h5 class="mb-3">Plumbing</h5>
+                        <p class="mb-0">Description of Plumbing will be added</p>
                     </div>
                 </div>
             </div>
@@ -183,14 +183,11 @@
                 <div class="col-lg-6 pt-lg-5 wow fadeIn" data-wow-delay="0.5s">
                     <div class="bg-white rounded-top p-5 mt-lg-5">
                         <p class="fs-5 fw-medium text-main">About Us</p>
-                        <h1 class="display-6 mb-4">#1 Rated Auto Shop in North Bay</h1>
-                        <p class="mb-4">At Northern Safety & Lube,
-                            we’re committed to delivering dependable,
-                            top-tier automotive service backed by honesty and expertise.
-                            From routine maintenance to advanced repairs, our experienced
-                            team works hard to keep your vehicle safe, reliable, and road-ready.
-                            We take pride in the trust our customers place in us and strive
-                            every day to exceed expectations.</p>
+                        <h1 class="display-8 mb-4">Serving Halifax and Surrounding Areas Since 1997</h1>
+                        <p class="mb-4">History and Areas Serve will be added.,
+                           History and Areas Serve will be added.History and Areas Serve will be added.
+                          History and Areas Serve will be added.History and Areas Serve will be added. 
+                        </p>
                         <a class="btn bg-main rounded-pill py-3 px-5 text-white" href="">Explore More</a>
                     </div>
                 </div>
@@ -224,7 +221,7 @@
     <div class="container-xxl py-5" id="service-div">
         <div class="container">
             <div class="wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="mb-5">Our <span class="text-main">Services</span></h1>
+                <h1 class="mb-5">Why <span class="text-main">choose us?</span></h1>
             </div>
             <div class="contact-container row my-5 card-effect card-hide service-card slide-in-left align-items-center">
                 <div class="col-lg-6 col-md-12 text-center">
