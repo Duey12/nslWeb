@@ -152,7 +152,18 @@
     background: rgba(0, 0, 0, .1);
     z-index: 1;
 }
-
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(79,111,138,0.92) 0%,
+    rgba(79,111,138,0.85) 40%,
+    rgba(79,111,138,0.55) 70%,
+    rgba(79,111,138,0.25) 100%
+  );
+  z-index: 1;
+}
 .carousel-control-prev,
 .carousel-control-next {
     width: 15%;
@@ -224,7 +235,7 @@
 
 /*** About ***/
 .about {
-    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/about.jpg) left center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/about.png) left center no-repeat;
     background-size: cover;
 }
 
@@ -552,8 +563,8 @@
     background: var(--primary);
 }
 
-.owl-item.center .testimonial-item *,
-.testimonial-item:hover * {
+.owl-item.center .testimonial-item h5,
+.testimonial-item:hover h5 {
     color: #FFFFFF !important;
 }
 
@@ -593,7 +604,9 @@
     background: var(--primary);
     color: #FFFFFF;
 }
-
+.testimonial-item i{
+    color:gold
+}
 @media (max-width: 768px) {
     .testimonial-carousel .owl-nav {
         top: -70px;

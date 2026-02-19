@@ -50,12 +50,13 @@
         <div class="container py-3">
             <div class="d-flex align-items-center">
                 <div class="ms-auto d-flex align-items-center">
-                    <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>1546 St Margarets Bay Rd, Lakeside, NS, B3T 1A9</small>
+                    <small class="ms-4"><i class="fa fa-map-marker-alt me-3"></i>1546 St Margarets Bay Rd, Lakeside, NS,
+                        B3T 1A9</small>
                     <small class="ms-4"><i class="fa fa-envelope me-3"></i>DOWNHOMEHANDYMAN@EASTLINK.CA</small>
                     <small class="ms-4"><i class="fa fa-phone-alt me-3"></i>+1-902-497-3211</small>
                     <div class="ms-3 d-flex">
                         <a class="btn btn-sm-square btn-light text-primary rounded-circle ms-2"
-                            href="https://www.facebook.com/automotiveservice/"><i class="fab fa-facebook-f"></i></a>
+                            href="#"><i class="fab fa-facebook-f"></i></a>
 
                     </div>
                 </div>
@@ -71,8 +72,7 @@
                 <a href="/" class="navbar-brand">
                     <img src="/logo.png" alt="Northen Safety Lube Logo" id="nsl-logo">
                 </a>
-                <button type="button" class="navbar-toggler" data-bs-toggle="collapse"
-                    data-bs-target="#navbarCollapse">
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -96,7 +96,8 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active vh-100">
-                    <img class="w-100" src="img/hero.png" alt="Image" style="opacity: 0.7;">
+                    <img class="w-100" src="img/hero.png" alt="Image">
+                        <div class="hero-overlay"></div>
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
@@ -104,14 +105,17 @@
                                     <p class="fs-4 text-white animated slideInRight">Welcome to
                                         <strong>Down Home HandyMan</strong>
                                     </p>
-                                    <h1 class="display-1 text-main mb-4 animated slideInRight">Reliable Repairs <span
-                                            class="text-main">Done Right</span> 
+                                    <h1 class="display-1 text-white mb-4 animated slideInRight">Reliable Repairs <span
+                                            class="text-white">Done Right</span>
                                     </h1>
-                                    <p class="text-main">We are a customer oriented service provider who specialize in the retail sector. In business since 1997, we offer a range of services to maintain and improve the functionality of the business</p>
+                                    <p class="text-white">We are a customer oriented service provider who specialize in
+                                        the retail sector. In business since 1997, we offer a range of services to
+                                        maintain and improve the functionality of the business</p>
                                     <a href=""
-                                        class="btn bg-main text-white rounded-pill py-3 px-5 mx-3 animated slideInRight">Get Quote</a>
-                                        <a href=""
-                                        class="btn text-main  rounded-pill py-3 px-5 animated slideInRight" style="outline: 1px solid white;">Call now</a>
+                                        class="btn text-white rounded-pill py-3 px-5 mx-3 animated slideInRight" style="outline: 1px solid white;">Get
+                                        Quote</a>
+                                    <a href="" class="btn text-white  rounded-pill py-3 px-5 animated slideInRight"
+                                        style="outline: 1px solid white;">Call now</a>
                                 </div>
                             </div>
                         </div>
@@ -185,8 +189,8 @@
                         <p class="fs-5 fw-medium text-main">About Us</p>
                         <h1 class="display-8 mb-4">Serving Halifax and Surrounding Areas Since 1997</h1>
                         <p class="mb-4">History and Areas Serve will be added.,
-                           History and Areas Serve will be added.History and Areas Serve will be added.
-                          History and Areas Serve will be added.History and Areas Serve will be added. 
+                            History and Areas Serve will be added.History and Areas Serve will be added.
+                            History and Areas Serve will be added.History and Areas Serve will be added.
                         </p>
                         <a class="btn bg-main rounded-pill py-3 px-5 text-white" href="">Explore More</a>
                     </div>
@@ -225,18 +229,14 @@
             </div>
             <div class="contact-container row my-5 card-effect card-hide service-card slide-in-left align-items-center">
                 <div class="col-lg-6 col-md-12 text-center">
-                    <img src="/img/s1.png" class="img-fluid rounded shadow cone-image">
+                    <img src="/img/why-1.png" class="img-fluid rounded shadow cone-image vh-100">
                 </div>
                 <div class="col-lg-6 col-md-12 py-5">
-                    <h4 class="text-center">Heating and Air Conditioning System Repairs</h4>
+                    <h4 class="text-center">Skilled & Experienced Technicians</h4>
                     <p class="my-3 mx-auto text-justify fade-in-section" style="max-width:90%">
-                        Stay comfortable in every season with our
-                        expert heating and air conditioning services.
-                        We diagnose and repair HVAC issues quickly and
-                        accurately to ensure your system runs efficiently.
-                        Whether it’s weak airflow, strange noises, or complete
-                        system failure, our trained technicians restore your comfort
-                        with reliable, long-lasting solutions.
+                        Our trained professionals bring years of hands-on experience to every job.
+                        We use professional-grade tools and proven repair methods to ensure the work
+                        is done safely, efficiently, and right the first time.
                     </p>
                 </div>
             </div>
@@ -245,18 +245,14 @@
             <div class="contact-container row my-5 card-effect card-hide service-card slide-in-right align-items-center flex-lg-row-reverse"
                 id="reverse-service">
                 <div class="col-lg-6 col-md-12 text-center">
-                    <img src="/img/s2.png" class="img-fluid rounded shadow">
+                    <img src="/img/why-2.png" class="img-fluid rounded shadow vh-100">
                 </div>
                 <div class="col-lg-6 col-md-12 py-5">
-                    <h4 class="text-center">Drip-less Undercoating</h4>
+                    <h4 class="text-center">Fast, Reliable Service</h4>
                     <p class="my-3 mx-auto text-justify fade-in-section" style="max-width:90%">
-                        Protect your vehicle from rust, corrosion,
-                        and harsh road conditions with our drip-less
-                        undercoating service. This advanced application
-                        creates a durable protective barrier without the mess,
-                        helping extend the life of your vehicle’s underbody.
-                        Ideal for Canadian climates, our undercoating keeps
-                        your car protected year-round.
+                        When something breaks, you need help fast. We respond quickly, arrive on time,
+                        and communicate clearly throughout the process so you’re never left waiting
+                        or wondering.
                     </p>
                 </div>
             </div>
@@ -264,18 +260,14 @@
             <!-- World Class Instructor -->
             <div class="contact-container row my-5 card-effect card-hide service-card slide-in-left align-items-center">
                 <div class="col-lg-6 col-md-12 text-center">
-                    <img src="/img/s3.png" class="img-fluid rounded shadow">
+                    <img src="/img/why-3.png" class="img-fluid rounded shadow vh-100">
                 </div>
                 <div class="col-lg-6 col-md-12 py-5">
-                    <h4 class="text-center">Vehicle Safety Certifications</h4>
+                    <h4 class="text-center">Honest Pricing & Work You Can Trust</h4>
                     <p class="my-3 mx-auto text-justify fade-in-section" style="max-width:90%">
-                        We provide certified vehicle safety
-                        inspections to ensure your car meets
-                        all Canadian safety standards.
-                        Our thorough inspection process covers brakes,
-                        suspension, steering, lights, tires, and more.
-                        Once approved, you’ll receive the proper certification
-                        with confidence—helping you drive legally, safely, and worry-free.
+                        No hidden fees or surprise costs. We provide clear, upfront pricing and stand
+                        behind every repair with dependable workmanship and lasting results you can
+                        feel confident about.
                     </p>
                 </div>
             </div>
@@ -290,7 +282,8 @@
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <p class="fs-5 fw-medium text-main">Get A Quote</p>
                     <h1 class="display-5 mb-4">Need Our Expert Help? We're Here!</h1>
-                    <p>Reach out today and get personalized support from our experienced team. Whether you have questions, need guidance, or want a quote, we’re ready to help — fast and hassle-free.</p>
+                    <p>Reach out today and get personalized support from our experienced team. Whether you have
+                        questions, need guidance, or want a quote, we’re ready to help — fast and hassle-free.</p>
                     <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary" href="">
                         <span class="btn-lg-square bg-main" style="width: 55px; height: 55px;">
                             <i class="fa fa-phone-alt text-white"></i>
@@ -347,71 +340,6 @@
     </div>
     <!-- Quote Start -->
 
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <p class="fs-5 fw-medium text-primary">Our Team</p>
-                <h1 class="display-5 mb-5">Our Expert People Ready to Help You</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item rounded overflow-hidden pb-4">
-                        <img class="img-fluid mb-4" src="/img/avatar.png" alt="">
-                        <h5>Kristin Bell</h5>
-                        <span class="text-primary">Founder & CEO</span>
-                        <ul class="team-social">
-                            <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="team-item rounded overflow-hidden pb-4">
-                        <img class="img-fluid mb-4" src="/img/avatar.png" alt="">
-                        <h5>Team 2</h5>
-                        <span class="text-primary">Technician</span>
-                        <ul class="team-social">
-                            <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="team-item rounded overflow-hidden pb-4">
-                        <img class="img-fluid mb-4" src="/img/avatar.png" alt="">
-                        <h5>Team 3</h5>
-                        <span class="text-primary">Technician</span>
-                        <ul class="team-social">
-                            <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                    <div class="team-item rounded overflow-hidden pb-4">
-                        <img class="img-fluid mb-4" src="/img/avatar.png" alt="">
-                        <h5>Team 3</h5>
-                        <span class="text-primary">Technician</span>
-                        <ul class="team-social">
-                            <li><a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a></li>
-                            <li><a class="btn btn-square" href=""><i class="fab fa-linkedin-in"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Team End -->
-
     <!-- Testimonial Start -->
     <div class="container-xxl pt-5">
         <div class="container">
@@ -422,35 +350,44 @@
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-                    <p class="mb-4">Kristin and the team at Northern Safety and Lube are fantastic!
-                        Not only were they fast and efficient but also super friendly from start to finish.
-                        It’s rare to find a shop that gets the job done right and makes you feel so well taken care of.
-                        If you like to support local businesses I highly recommend them for anyone looking for reliable,
-                        top-notch service!</p>
-                    <h5>Mathieu Desjardins</h5>
+                    <h5>Joy Jarvis</h5>
+                    <div>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
                 </div>
                 <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-                    <p class="mb-4">Kristen and the whole team are amazing!
-                        They are always friendly and polite! Kristen helped so much with my vehicle and I will always
-                        take my business to Northern Safety and Lube</p>
-                    <h5>Mandy Tremblay</h5>
+                     <h5>Billy Overland</h5>
+                    <div>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
                 </div>
                 <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-                    <p class="mb-4">Had an amazing experience here! They were able to take our car in on the same day,
-                        which was such a relief. The staff were incredibly friendly and knowledgeable, offering helpful
-                        and encouraging advice in my search for a new car. Their prices are very reasonable, and the
-                        service was perfect. It’s rare to find such a trustworthy garage, and I’ll definitely be coming
-                        back. Highly recommend!</p>
-                    <h5>Ella</h5>
+                     <h5>Ahmad Hussain</h5>
+                    <div>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
                 </div>
                 <div class="testimonial-item rounded p-4 p-lg-5 mb-5">
-                    <p class="mb-4">Kris and her team are absolutely amazing. We had an "older" vehicle (1993 Dodge)
-                        which they took on without hesitation. We ended up with some serious repairs to our veichle. Not
-                        only were they able to find all the right parts for our old girl they got her running
-                        beautifully. Her shop came highly recommended to us and we would not hesitate to recommend them
-                        to anyone else. Kris kept us updated along our journey and we felt valued as a customer. Thank
-                        you Kris and thank you to your crew well done!</p>
-                    <h5>Randy Mckinnon</h5>
+                     <h5>abc 123</h5>
+                    <div>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
                 </div>
             </div>
         </div>
@@ -463,9 +400,9 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Our Office</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>161 Ferris Dr, North Bay, ON P1A 4K2</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+705-495-4092</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>nslauto@outlook.com</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>1546 St Margarets Bay Rd, Lakeside, NS, B3T 1A9</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+1-902-497-3211</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>DOWNHOMEHANDYMAN@EASTLINK.CA</p>
                     <div class="d-flex pt-3">
                         <a class="btn btn-square btn-light rounded-circle me-2" href=""><i
                                 class="fab fa-twitter"></i></a>
@@ -488,7 +425,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Business Hours</h4>
                     <p class="mb-1">Monday - Friday</p>
-                    <h6 class="text-light">80:00 am - 05:00 pm</h6>
+                    <h6 class="text-light">8:00 am - 05:00 pm</h6>
                     <p class="mb-1">Saturday</p>
                     <h6 class="text-light">Closed</h6>
                     <p class="mb-1">Sunday</p>
@@ -496,7 +433,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Newsletter</h4>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                    <p>Subscribe to our Newsletter.</p>
                     <div class="position-relative w-100">
                         <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text"
                             placeholder="Your email">
@@ -516,7 +453,7 @@
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
                     &copy; <a class="fw-medium text-light" href="#">www.nsllube.com</a>, All Right Reserved.
                 </div>
-    
+
             </div>
         </div>
     </div>
